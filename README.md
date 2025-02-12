@@ -1,5 +1,5 @@
-# OS_HW_2
-Operating Systems Homework 2 
+# OS_HW_1
+Operating Systems Homework 1
 Part 1
 
 The differences bewteen Goroutine and thread are that Goroitne is less dependant on the computers hardware and takes up less space on average due to allocating space as nessesary, unlike threads which allocate memory premptivly. It also runs faster than threads. A disadvantage is that you are stuck with using the Go code, unlike with threads that supports multiple langueges.
